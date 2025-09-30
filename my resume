@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pavan Shivaji Khakre — Resume</title>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <!-- Replace the src with your direct photo URL -->
+    <img src="my photo.jpg" alt="Pavan Shivaji Khakre photo" width="120" height="120">
+    <h1>Pavan Shivaji Khakre</h1>
+    <p><strong>BSc Computer Science Student</strong> · Web Developer · Software Enthusiast</p>
+  </header>
+
+  <!-- About Me -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a BSc Computer Science student passionate about building modern web applications and learning software engineering.
+      I have hands-on experience with HTML, CSS, JavaScript and fundamentals of Java, C/C++. I enjoy solving algorithmic problems,
+      learning new tools, and collaborating on projects. Seeking internship opportunities to apply my skills and grow as a developer.
+    </p>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <h2>Skills</h2>
+
+    <h3>Technical Skills</h3>
+    <ul>
+      <li>HTML &amp; CSS</li>
+      <li>JavaScript (basic)</li>
+      <li>Java, C, C++</li>
+      <li>Data Structures &amp; Algorithms (foundations)</li>
+      <li>Git, VS Code</li>
+      <li>Windows &amp; Linux</li>
+    </ul>
+
+    <h3>Soft Skills</h3>
+    <ul>
+      <li>Problem solving</li>
+      <li>Quick learner</li>
+      <li>Team collaboration</li>
+      <li>Time management</li>
+      <li>Communication</li>
+    </ul>
+  </section>
+
+  <!-- Optional contact block (editable) -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:pavankhakre1013@gmail.com">pavankhakre1013@gmail.com</a></p>
+    <p>Phone: +91 7038902645</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/pavan-khakre-375b322a2" target="_blank" rel="noopener">Pavan Khakre</a></p>
+  </section>
+
+</body>
+</html>
+
